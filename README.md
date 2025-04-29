@@ -32,7 +32,7 @@ Calibration procedure involves adopting 3D coordinates that will be assigned to 
 A Kalman filter has been implemented to improve the accuracy of the system by estimating the state of a dynamic system from noisy measurements.
 <p align="center">
   <a href="https://youtu.be/Vj2q1zKzQ9E" target="_blank">
-    <img src="https://img.youtu.be/Vj2q1zKzQ9E/0.jpg" alt="Video Thumbnail" width="500">
+    <img src="https://img.youtube.com/vi/Vj2q1zKzQ9E/0.jpg" alt="Video Thumbnail" width="500">
   </a>
 </p>
 
