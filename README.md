@@ -29,7 +29,7 @@ Calibration procedure involves adopting 3D coordinates that will be assigned to 
   <em>Rys. 6: 3D model of calibration wand</em>
 
 <h3>3. Marker tracking</h3>
-A Kalman filter has been implemented to improve the accuracy of the system by estimating the state of a dynamic system from noisy measurements.
+Kalman filter and Hungarian Algorithm have been implemented to improve the accuracy of the system by estimating the state of a dynamic system from noisy measurements.
 <p align="center">
   <a href="https://youtu.be/Vj2q1zKzQ9E" target="_blank">
     <img src="https://img.youtube.com/vi/Vj2q1zKzQ9E/0.jpg" alt="Video Thumbnail" width="500">
@@ -37,4 +37,12 @@ A Kalman filter has been implemented to improve the accuracy of the system by es
   <br>
   <em>Demonstration of the Kalman filter on one marker</em>
 </p>
+<p align="center">
+  <a href="https://youtu.be/S2EUguyW2uo" target="_blank">
+    <img src="https://img.youtube.com/vi/S2EUguyW2uo/0.jpg" alt="Video Thumbnail" width="500">
+  </a>
+  <br>
+  <em>Demonstration of the Kalman filter on three markers but without Hungarian Algorithm</em>
+</p>
+
 
