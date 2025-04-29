@@ -1,5 +1,5 @@
 # MotionCap
- Motion Capture System – concept and implementation.
+ Motion Capture System – concept and implementation 2021/2022.
 <br>
 This project involves the development of a DIY Motion Capture system from scratch, divided into the following stages:
 
