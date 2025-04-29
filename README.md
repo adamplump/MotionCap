@@ -10,8 +10,6 @@ This project involves the development of a DIY Motion Capture system from scratc
 3. Marker tracking – developed original image processing algorithms for detecting and tracking markers in camera images, based on a Kalman filter and Hungarian Algorithm for assignment problem, without using MATLAB's built-in tracking tools.
 
 4. Results and system accuracy verification – evaluated the system's precision using a custom-designed calibration device.
-![image](https://github.com/user-attachments/assets/5d3bdf22-9805-49c3-b0c4-bb84a79992c1)
-
 
 <h3>1. Concept of system.</h3>
 
