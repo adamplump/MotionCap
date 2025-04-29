@@ -13,7 +13,12 @@ This project involves the development of a DIY Motion Capture system from scratc
 
 <h3>1. Concept of system:</h3>
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/d359184a-88d3-422c-8730-fea453e1cc41" alt="Rys 1 Printed calibration wand" width="500"/>
+  <br>
+  <em>Rys. 2: 3D model of calibration wand</em>
+</p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/aa4084a1-24ea-4fef-8d8b-1f02173eca97" alt="Rys 1 Printed calibration wand" width="500"/>
   <br>
-  <em>Rys. 1: Printed calibration wand</em>
+  <em>Rys. 3: Printed calibration wand</em>
 </p>
