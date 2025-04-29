@@ -30,6 +30,12 @@ This project involves the development of a DIY Motion Capture system from scratc
 <p align="center">
   <img src="https://github.com/user-attachments/assets/54c69dca-c4a7-4ad0-9d4a-957d35c97671" alt="Rys 1 Printed calibration wand" width="500"/>
   <br>
-  <em>Rys. 4: Three cameras setup</em>
+  <em>Rys. 5: Three cameras setup</em>
 </p>
+<h3>2. Calibration and Triangulation Algorithms:</h3>
+Calibration procedure involves adopting 3D coordinates that will be assigned to the markers of the calibration wand. A matrix is created with three columns corresponding to the x, y, and z axes, and six rows corresponding to the markers. The position of the origin of the coordinate system depends on the coordinates chosen in this step. Triangulation is then used to determine the spatial positions of the markers by analyzing their projections from multiple viewpoints. By calculating the intersection of the rays from each viewpoint, the 3D positions of the markers are obtained, allowing for precise calibration and alignment of the coordinate system.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d359184a-88d3-422c-8730-fea453e1cc41" alt="Rys 1 Printed calibration wand" width="500"/>
+  <br>
+  <em>Rys. 6: 3D model of calibration wand</em>
 
