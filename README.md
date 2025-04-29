@@ -44,5 +44,12 @@ Kalman filter and Hungarian Algorithm have been implemented to improve the accur
   <br>
   <em>Demonstration of the Kalman filter on three markers but without Hungarian Algorithm</em>
 </p>
+<p align="center">
+  <a href="https://youtu.be/giraAuK3giA" target="_blank">
+    <img src="https://img.youtube.com/vi/giraAuK3giA/0.jpg" alt="Video Thumbnail" width="500">
+  </a>
+  <br>
+  <em>Combined Kalman filter on three markers and Hungarian Algorithm</em>
+</p>
 
 
