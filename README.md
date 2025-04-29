@@ -34,5 +34,7 @@ A Kalman filter has been implemented to improve the accuracy of the system by es
   <a href="https://youtu.be/Vj2q1zKzQ9E" target="_blank">
     <img src="https://img.youtube.com/vi/Vj2q1zKzQ9E/0.jpg" alt="Video Thumbnail" width="500">
   </a>
+  <br>
+  <em>Demonstration of the Kalman filter on one marker</em>
 </p>
 
