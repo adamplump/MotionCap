@@ -62,7 +62,6 @@ In the video below you can watch a short results of DIY motion capture systems. 
   <br>
   <em>Combined Kalman filter and Hungarian Algorithm on three markers.</em>
 </p>
-![image](https://github.com/user-attachments/assets/eec1c0a4-b047-4c41-8286-49b18e469ee1)
 
 | ![Fig. 7: Custom designed vertification device](https://github.com/user-attachments/assets/675b493b-9f80-43b4-92d4-abc43ccb43f5) | ![Fig. 8: Connected electronics components to control the device](https://github.com/user-attachments/assets/eec1c0a4-b047-4c41-8286-49b18e469ee1) |
 |:--:|:--:|
