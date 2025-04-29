@@ -54,7 +54,7 @@ Kalman filter and Hungarian Algorithm have been implemented to improve the accur
 </p>
 
 <h3>4. Results</h3>
-In the video below you can watch a short results of DIY motion capture systems. Additionaly there have been created a device for verification of desgined system.
+In the video below you can watch a short results of DIY motion capture systems. Additionally there have been created a device for verification of designed system.
 <p align="center">
   <a href="https://youtu.be/Ns-yqAmoosk" target="_blank">
     <img src="https://img.youtube.com/vi/Ns-yqAmoosk/0.jpg" alt="Video Thumbnail" width="500">
