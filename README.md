@@ -6,9 +6,9 @@ This project involves the development of a DIY Motion Capture system from scratc
 
 2. Calibration and triangulation algorithms – implemented custom functions written in MATLAB for multi-camera calibration and 3D point triangulation using the Direct Linear Transformation (DLT) method, without relying on built-in MATLAB functions.
 
-3. Marker tracking – Developed original image processing algorithms for detecting and tracking markers in camera images, based on a Kalman filter, and without using MATLAB's built-in tracking tools.
+3. Marker tracking – developed original image processing algorithms for detecting and tracking markers in camera images, based on a Kalman filter, and without using MATLAB's built-in tracking tools.
 
-4. System accuracy verification – Evaluated the system's precision using a custom-designed calibration device.
+4. System accuracy verification – evaluated the system's precision using a custom-designed calibration device.
 
 
 <h3>1. Concept of system:</h3>
