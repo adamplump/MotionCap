@@ -12,31 +12,26 @@ This project involves the development of a DIY Motion Capture system from scratc
 
 
 <h3>1. Concept of system:</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="margin: 10px; width: 45%;">
-    <img src="https://github.com/user-attachments/assets/d359184a-88d3-422c-8730-fea453e1cc41" alt="Rys 1 Printed calibration wand" width="100%">
-    <br>
-    <em>Rys. 2: 3D model of calibration wand</em>
-  </div>
-
-  <div style="margin: 10px; width: 45%;">
-    <img src="https://github.com/user-attachments/assets/aa4084a1-24ea-4fef-8d8b-1f02173eca97" alt="Rys 1 Printed calibration wand" width="100%">
-    <br>
-    <em>Rys. 3: Printed calibration wand</em>
-  </div>
-
-  <div style="margin: 10px; width: 45%;">
-    <img src="https://github.com/user-attachments/assets/2cc40943-2196-47f5-9a95-8ec00815457c" alt="Rys 1 Printed calibration wand" width="100%">
-    <br>
-    <em>Rys. 4: Custom designed and printed handle for phone</em>
-  </div>
-
-  <div style="margin: 10px; width: 45%;">
-    <img src="https://github.com/user-attachments/assets/54c69dca-c4a7-4ad0-9d4a-957d35c97671" alt="Rys 1 Printed calibration wand" width="100%">
-    <br>
-    <em>Rys. 5: Three cameras setup</em>
-  </div>
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d359184a-88d3-422c-8730-fea453e1cc41" alt="Rys 1 Printed calibration wand" width="500"/>
+  <br>
+  <em>Rys. 2: 3D model of calibration wand</em>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aa4084a1-24ea-4fef-8d8b-1f02173eca97" alt="Rys 1 Printed calibration wand" width="500"/>
+  <br>
+  <em>Rys. 3: Printed calibration wand</em>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2cc40943-2196-47f5-9a95-8ec00815457c" alt="Rys 1 Printed calibration wand" width="500"/>
+  <br>
+  <em>Rys. 4: Custom designed and printed handle for phone</em>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54c69dca-c4a7-4ad0-9d4a-957d35c97671" alt="Rys 1 Printed calibration wand" width="500"/>
+  <br>
+  <em>Rys. 5: Three cameras setup</em>
+</p>
 <h3>2. Calibration and Triangulation Algorithms:</h3>
 Calibration procedure involves adopting 3D coordinates that will be assigned to the markers of the calibration wand. A matrix is created with three columns corresponding to the x, y, and z axes, and six rows corresponding to the markers. The position of the origin of the coordinate system depends on the coordinates chosen in this step. Triangulation is then used to determine the spatial positions of the markers by analyzing their projections from multiple viewpoints. By calculating the intersection of the rays from each viewpoint, the 3D positions of the markers are obtained, allowing for precise calibration and alignment of the coordinate system.
 <p align="center">
