@@ -62,12 +62,17 @@ In the video below you can watch a short results of DIY motion capture systems. 
   <br>
   <em>Combined Kalman filter and Hungarian Algorithm on three markers.</em>
 </p>
+![image](https://github.com/user-attachments/assets/eec1c0a4-b047-4c41-8286-49b18e469ee1)
 
-| ![Fig. 7: Custom designed vertification device](https://github.com/user-attachments/assets/675b493b-9f80-43b4-92d4-abc43ccb43f5) | ![Fig. 8: Connected electronics components to control the device](https://github.com/user-attachments/assets/54c69dca-c4a7-4ad0-9d4a-957d35c97671) |
+| ![Fig. 7: Custom designed vertification device](https://github.com/user-attachments/assets/675b493b-9f80-43b4-92d4-abc43ccb43f5) | ![Fig. 8: Connected electronics components to control the device](https://github.com/user-attachments/assets/eec1c0a4-b047-4c41-8286-49b18e469ee1) |
 |:--:|:--:|
 | *Fig. 7: Custom designed vertification device* | *Fig. 8: Connected electronics components to control the device* |
 
-Measurement error = 107.1 - 100.8 = 6.3 mm
-Relative measurement error = (6.3 / 107.1) * 100% = 5.9 %
+<p align="center">
+  Measurement error = 107.1 - 100.8 = 6.3 mm
+</p>
+<p align="center">
+  Relative measurement error = (6.3 / 107.1) * 100% = 5.9 %
+</p>
 
 
