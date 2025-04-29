@@ -10,11 +10,12 @@ This project involves the development of a DIY Motion Capture system from scratc
 3. Marker tracking – developed original image processing algorithms for detecting and tracking markers in camera images, based on a Kalman filter and Hungarian Algorithm for assignment problem, without using MATLAB's built-in tracking tools.
 
 4. Results and system accuracy verification – evaluated the system's precision using a custom-designed calibration device.
+![image](https://github.com/user-attachments/assets/5d3bdf22-9805-49c3-b0c4-bb84a79992c1)
 
 
 <h3>1. Concept of system.</h3>
 
-| ![Fig. 2: 3D model of calibration wand](https://github.com/user-attachments/assets/d359184a-88d3-422c-8730-fea453e1cc41) | ![Fig. 3: Printed calibration wand](https://github.com/user-attachments/assets/aa4084a1-24ea-4fef-8d8b-1f02173eca97) |
+| ![Fig. 2: Function implementation steps](https://github.com/user-attachments/assets/5d3bdf22-9805-49c3-b0c4-bb84a79992c1) | ![Fig. 3: Printed calibration wand](https://github.com/user-attachments/assets/aa4084a1-24ea-4fef-8d8b-1f02173eca97) |
 |:--:|:--:|
 | *Fig. 2: 3D model of calibration wand* | *Fig. 3: Printed calibration wand* |
 
