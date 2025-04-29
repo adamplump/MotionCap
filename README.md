@@ -11,7 +11,9 @@ This project involves the development of a DIY Motion Capture system from scratc
 4. System Accuracy Verification – Evaluated the system's precision using a custom-designed calibration device.
 
 
-1. Concept of system:
-![Rys  1 Printed calibration wand ](https://github.com/user-attachments/assets/aa4084a1-24ea-4fef-8d8b-1f02173eca97)
-
-![Rys  2b](https://github.com/user-attachments/assets/0578a00a-7804-4305-b540-181bdf624399)
+<h3>1. Concept of system:</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aa4084a1-24ea-4fef-8d8b-1f02173eca97" alt="Rys 1 Printed calibration wand" width="500"/>
+  <br>
+  <em>Rys. 1: Printed calibration wand</em>
+</p>
