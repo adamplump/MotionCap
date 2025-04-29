@@ -22,3 +22,14 @@ This project involves the development of a DIY Motion Capture system from scratc
   <br>
   <em>Rys. 3: Printed calibration wand</em>
 </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2cc40943-2196-47f5-9a95-8ec00815457c" alt="Rys 1 Printed calibration wand" width="500"/>
+  <br>
+  <em>Rys. 4: Custom designed and printed handle for phone</em>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54c69dca-c4a7-4ad0-9d4a-957d35c97671" alt="Rys 1 Printed calibration wand" width="500"/>
+  <br>
+  <em>Rys. 4: Three cameras setup</em>
+</p>
+
